@@ -41,7 +41,7 @@ php-rest-api/
 ### Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/php-rest-api.git
+   git clone https://github.com/leomaxuz/php-rest-api.git
    cd php-rest-api
    ```
 
